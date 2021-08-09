@@ -1,0 +1,2 @@
+# Vanilla JS practise projects
+
