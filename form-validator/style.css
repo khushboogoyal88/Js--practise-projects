@@ -63,7 +63,7 @@ h2 {
 
 .form-control.success input {
   border-color: var(--success-color);
-}
+} 
 
 .form-control.error input {
   border-color: var(--error-color);
